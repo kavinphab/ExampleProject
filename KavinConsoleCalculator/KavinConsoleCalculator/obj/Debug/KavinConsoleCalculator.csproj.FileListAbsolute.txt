@@ -1,0 +1,7 @@
+C:\Users\VisitorDL9\Documents\Visual Studio 2017\Projects\KavinConsoleCalculator\KavinConsoleCalculator\bin\Debug\KavinConsoleCalculator.exe.config
+C:\Users\VisitorDL9\Documents\Visual Studio 2017\Projects\KavinConsoleCalculator\KavinConsoleCalculator\bin\Debug\KavinConsoleCalculator.exe
+C:\Users\VisitorDL9\Documents\Visual Studio 2017\Projects\KavinConsoleCalculator\KavinConsoleCalculator\bin\Debug\KavinConsoleCalculator.pdb
+C:\Users\VisitorDL9\Documents\Visual Studio 2017\Projects\KavinConsoleCalculator\KavinConsoleCalculator\obj\Debug\KavinConsoleCalculator.csprojAssemblyReference.cache
+C:\Users\VisitorDL9\Documents\Visual Studio 2017\Projects\KavinConsoleCalculator\KavinConsoleCalculator\obj\Debug\KavinConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\VisitorDL9\Documents\Visual Studio 2017\Projects\KavinConsoleCalculator\KavinConsoleCalculator\obj\Debug\KavinConsoleCalculator.exe
+C:\Users\VisitorDL9\Documents\Visual Studio 2017\Projects\KavinConsoleCalculator\KavinConsoleCalculator\obj\Debug\KavinConsoleCalculator.pdb
